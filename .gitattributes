@@ -1,3 +1,0 @@
-*.c   diff=cpp
-*.h   diff=cpp
-drivers/input/touchscreen/touch.h filter=lfs diff=lfs merge=lfs -text
